@@ -34,7 +34,6 @@ An intelligent WhatsApp auto-reply bot powered by Groq AI API (Llama 3.3 70B) th
 Before you begin, ensure that you have:
 
 - Python 3.8 or higher installed
-- Groq API key ([Get free tier here](https://console.groq.com))
 - Chrome browser with WhatsApp Web access
 - Windows OS (for coordinate-based automation)
 - Working microphone (optional for future voice features)
